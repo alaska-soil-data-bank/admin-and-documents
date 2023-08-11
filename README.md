@@ -1,2 +1,2 @@
 # admin
-documents, meeting minutes and announcements archive
+documents archive
